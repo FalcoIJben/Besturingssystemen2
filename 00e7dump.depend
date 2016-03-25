@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1453197642 source:/home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/assert_error.cc
+	<string>
+	<sstream>
+	"assert_error.h"
+
+1448444481 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/assert_error.h
+	<stdexcept>
+
+1448637443 source:/home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/Block.cc
+	"asserts.h"
+	"endian.h"
+	"Block.h"
+
+1453197919 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/asserts.h
+	"where.h"
+	"assert_error.h"
+
+1453197867 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/where.h
+
+1458648730 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/Block.h
+	<string>
+	"e7types.h"
+	"e7const.h"
+	"e7filsys.h"
+	"e7fblk.h"
+	"e7ino.h"
+	"e7dir.h"
+
+1458648914 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7types.h
+	<cstdint>
+
+1423260580 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7const.h
+
+1423260898 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7filsys.h
+	"e7types.h"
+
+1423234122 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7fblk.h
+	"e7types.h"
+	"e7filsys.h"
+
+1448873524 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7ino.h
+	"e7types.h"
+
+1448873516 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7dir.h
+	"e7types.h"
+
+1448444744 source:/home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/cstr.cc
+	"cstr.h"
+
+1423260570 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/cstr.h
+	<ostream>
+
+1448637467 source:/home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/Device.cc
+	"asserts.h"
+	"unix_error.h"
+	<fcntl.h>
+	<unistd.h>
+	<sys/stat.h>
+	<cstdio>
+	"Block.h"
+	"Device.h"
+	"e7const.h"
+
+1454613056 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/unix_error.h
+	<stdexcept>
+	<string>
+	"where.h"
+
+1448636838 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/Device.h
+	<map>
+	"e7types.h"
+
+1458813002 source:/home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/main.cc
+	"ansi.h"
+	"asserts.h"
+	"unix_error.h"
+	"cstr.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<unistd.h>
+	<fcntl.h>
+	"Device.h"
+	"Block.h"
+
+1423260298 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/ansi.h
+	"common.h"
+
+1423315774 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/common.h
+
+1448447775 source:/home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/unix_error.cc
+	<cstring>
+	<cerrno>
+	<sstream>
+	"unix_error.h"
+

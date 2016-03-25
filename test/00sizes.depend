@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1453893490 source:/home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/test/checksizes.cc
+	<cstdio>
+	"../ansi.h"
+	"../e7const.h"
+	"../e7dir.h"
+	"../e7fblk.h"
+	"../e7filsys.h"
+	"../e7ino.h"
+	"../e7types.h"
+	"../Block.h"
+
+1423260298 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/ansi.h
+	"common.h"
+
+1423315774 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/common.h
+
+1423260580 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7const.h
+
+1448873516 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7dir.h
+	"e7types.h"
+
+1458648914 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7types.h
+	<cstdint>
+
+1423234122 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7fblk.h
+	"e7types.h"
+	"e7filsys.h"
+
+1423260898 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7filsys.h
+	"e7types.h"
+
+1448873524 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/e7ino.h
+	"e7types.h"
+
+1458648730 /home/falco/School/Jaar_2/Kwartiel_3/BestuuringsSystemen/opdrachten/e7dump/Block.h
+	<string>
+	"e7types.h"
+	"e7const.h"
+	"e7filsys.h"
+	"e7fblk.h"
+	"e7ino.h"
+	"e7dir.h"
+
